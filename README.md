@@ -1,4 +1,5 @@
-# Hi, I’m MR-Addict.
+![Profile](Images/Profile.png)
+
 - 👀 I’m interested in DIY, especially expert at Arduino projects.
 - 💻 My programming skills including C/C++, python, html, css, js.
 - 💖 I also master solidworks, photoshop and EDA design.
