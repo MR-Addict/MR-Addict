@@ -1,7 +1,7 @@
-# Hi, there, I’m MR-Addict.
-- 👀 I’m interested in DIY, especially expert Arduino projects.
+# Hi, I’m MR-Addict.
+- 👀 I’m interested in DIY, especially expert at Arduino projects.
 - 💻 My programming skills including C/C++, python, html, css, js.
-- 💖 I also master solidworks, photoshop and easyEDA design.
+- 💖 I also master solidworks, photoshop and EDA design.
 - 🎇 Welcome to my [Github pages](https://mr-addict.github.io/Index/).
 
 # My Github Status:
