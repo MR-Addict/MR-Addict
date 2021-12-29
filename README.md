@@ -4,7 +4,7 @@
 - 💻 My programming skills including C/C++, python, html, css, js.
 - 💖 I also master solidworks, photoshop and EDA design.
 - 🎇 Welcome to my [Github pages](https://mr-addict.github.io/Index/).
-- 
+
 <!---
 # My Github Status:
 [![MR-Addict's GitHub stats](https://github-readme-stats.vercel.app/api?username=MR-Addict&hide=prs,contribs&show_icons=true&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
