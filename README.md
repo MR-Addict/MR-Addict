@@ -6,8 +6,8 @@
 --->
 
 <a href = "https://github.com/anuraghazra/github-readme-stats">
-    <image src= "https://github-readme-stats.vercel.app/api?username=MR-Addict&show_icons=true&theme=solarized-light&include_all_commits=true&custom_title=My Git Status" width=60%>
-    <image src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Addict&theme=solarized-light&langs_count=10&layout=compact" width=60%>
+    <image src= "https://github-readme-stats.vercel.app/api?username=MR-Addict&show_icons=true&theme=default&include_all_commits=true&custom_title=My Git Status" width=60%>
+    <image src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Addict&theme=default&langs_count=10&layout=compact" width=60%>
 </herf>
 
 <!---
