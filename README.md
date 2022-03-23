@@ -5,10 +5,13 @@
 - 🎇 Welcome to my [Github pages](https://mr-addict.github.io/).
 --->
 
+![Profile](Images/Profile.png)
+
+<!-- 
 <a href = "https://github.com/anuraghazra/github-readme-stats">
     <image src= "https://github-readme-stats.vercel.app/api?username=MR-Addict&show_icons=true&theme=default&include_all_commits=true&custom_title=My Git Status" width=60%>
     <image src= "https://github-readme-stats.vercel.app/api/top-langs/?username=MR-Addict&theme=default&langs_count=10&layout=compact" width=60%>
-</herf>
+</herf> -->
 
 <!---
 MR-Addict/MR-Addict is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
