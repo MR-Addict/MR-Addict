@@ -1,21 +1,14 @@
 <!-- welcome message -->
-<h1 align="center">Hi there! I'm Cael.</h1>
-<p align="center">I'm an undergradute student of Njtech University.</p>
+
+# Hi there! I'm Cael.
 
 <!-- badge -->
-<div align="center">
+<div>
   <a href="https://t.me/owencael" target="_blank">
     <img
       height="35"
       alt="telegram logo"
       src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge"
-    />
-  </a>
-  <a href="https://codepen.io/MR-Addict" target="_blank">
-    <img
-      height="35"
-      alt="codepen logo"
-      src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=1F8A70&logoColor=white&labelColor=&style=for-the-badge"
     />
   </a>
   <a href="mailto:MR-Addict@qq.com" target="_blank">
@@ -34,9 +27,21 @@
   </a>
 </div>
 
-<br />
+<br/>
 
-<div align="center">
+I'm an undergradute student of Njtech University from Jiangsu China.
+
+I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
+
+- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
+- 🌱 I’m constantly learning frontend frameworks like sveltekit and improving my skills.
+- 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
+- 💬 Ask me about anything related to programming, technology, or video games.
+- 😄 You can reach me using above social badges links.
+
+Here are programming languages or tools I frequently used:
+
+<div>
   <img
     height="30"
     width="42"
@@ -129,10 +134,12 @@
   />
 </div>
 
-<br/>
+##
+
+And here are some interesting grphs:
 
 <!-- grph -->
-<div align="center">
+<div align="left">
   <div>
     <img
       height="150"
@@ -148,3 +155,11 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
 </div>
+
+##
+
+Thanks again for visiting my profile! I hope you find something interesting here.
+
+If you have any questions or just want to say hi, feel free to reach out.
+
+Have a great day!
