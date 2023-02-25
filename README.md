@@ -9,7 +9,7 @@
   <a href="https://codepen.io/MR-Addict" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Codepen&logo=codepen&label=&color=1F8A70&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="codepen logo"  />
   </a>
-  <a href="mailto:mr-addict@qq.com" target="_blank">
+  <a href="mailto:MR-Addict@qq.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://mraddict.one" target="_blank">
@@ -43,14 +43,14 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=false&custom_title=Github Status&username=mr-addict" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue-dark&hide_border=false&custom_title=Most Used Languages&username=mr-addict" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=MR-Addict" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=MR-Addict" height="150" alt="languages graph"  />
 </div>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/mr-addict/mr-addict/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake.svg" alt="Snake animation" />
 
 ###
