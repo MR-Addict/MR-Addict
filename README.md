@@ -161,4 +161,4 @@ And here are some interesting grphs:
 
 If you have any questions or just want to say hi, feel free to reach out.
 
-Thanks. Have a great day!
+Have a great day!
