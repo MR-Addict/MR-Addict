@@ -1,0 +1,33 @@
+name: build
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "* */24 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: generate snake
+        uses: Platane/snk/svg-only@v2
+        with:
+          outputs: snake/snake.svg
+          github_user_name: ${{ github.repository_owner }}
+      - name: generate profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: merge files
+        run: mkdir output & mv snake output && mv profile-3d-contrib output
+      - name: push builds to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: output
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
