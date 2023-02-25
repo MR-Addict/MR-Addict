@@ -2,8 +2,6 @@
 <p>Hi there👋!</p>
 <p>My name is Cael and I'm an undergradute student of Njtech University.</p>
 
-<hr/>
-
 <!-- badge -->
 <div>
   <a href="https://t.me/owencael" target="_blank">
@@ -130,8 +128,6 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
   />
 </div>
-
-<hr/>
 
 <!-- grph -->
 <div>
