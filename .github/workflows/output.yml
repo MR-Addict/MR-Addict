@@ -12,22 +12,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      # generate snake svg image
       - name: generate snake
         uses: Platane/snk/svg-only@v2
         with:
           outputs: snake/snake.svg
           github_user_name: ${{ github.repository_owner }}
-      # generate summary svg image
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - name: generate profile-3d-contrib
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           USERNAME: ${{ github.repository_owner }}
-      # merge generated files
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: merge files
         run: mkdir output & mv snake output && mv profile-3d-contrib output
-      # push files to output branch
       - name: push builds to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
