@@ -1,9 +1,9 @@
 <!-- welcome message -->
-<p>Hi there👋!</p>
-<p>My name is Cael and I'm an undergradute student of Njtech University.</p>
+<h1 align="center">Hi there! I'm Cael.</h1>
+<p align="center">I'm an undergradute student of Njtech University.</p>
 
 <!-- badge -->
-<div>
+<div align="center">
   <a href="https://t.me/owencael" target="_blank">
     <img
       height="35"
@@ -36,7 +36,7 @@
 
 <br />
 
-<div>
+<div align="center">
   <img
     height="30"
     width="42"
@@ -132,20 +132,19 @@
 <br/>
 
 <!-- grph -->
-<div>
-  <img
-    src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue&locale=en&hide_border=false&username=MR-Addict"
-    height="150"
-    alt="stats graph"
-  />
-  &nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=vue&hide_border=false&username=MR-Addict"
-    height="150"
-    alt="languages graph"
-  />
+<div align="center">
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+    />
+  </div>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
 </div>
-
-<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
-
-<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-3d-contrib/profile-green-animate.svg" alt="profile 3d" />
