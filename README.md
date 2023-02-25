@@ -148,6 +148,4 @@
 
 <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="waving silk"/>
-
 <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-3d-contrib/profile-green-animate.svg" alt="profile 3d" />
