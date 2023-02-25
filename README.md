@@ -146,4 +146,6 @@
   />
 </div>
 
-<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-3d-contrib/profile-green-animate.svg" alt="profile 3d" />
