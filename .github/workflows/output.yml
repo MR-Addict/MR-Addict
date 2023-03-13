@@ -23,7 +23,7 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - name: merge files
-        run: mkdir output & mv snake output && mv profile-3d-contrib output
+        run: mkdir output && mv snake output && mv profile-3d-contrib output
       - name: push builds to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
