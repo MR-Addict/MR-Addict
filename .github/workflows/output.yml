@@ -17,13 +17,25 @@ jobs:
         with:
           outputs: snake/snake.svg
           github_user_name: ${{ github.repository_owner }}
+
       - name: generate profile-3d-contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           USERNAME: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: generate summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: 8
+          AUTO_PUSH: false
+
       - name: merge files
-        run: mkdir output && mv snake output && mv profile-3d-contrib output
+        run: mkdir output && mv snake output && mv profile-3d-contrib output && mv profile-summary-card-output output
+
       - name: push builds to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
