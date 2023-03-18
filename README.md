@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! I'm Cael.
+# Hi there! I'm Cael. ![build](https://github.com/MR-Addict/MR-Addict/actions/workflows/output.yml/badge.svg?branch=main)
 
 <!-- badge -->
 <div>
@@ -37,7 +37,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 - 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
 - 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
 - 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
-- 💬 Ask me about anything related to programming, technology, or video games.
+- 🗫 Ask me about anything related to programming, technology, or video games.
 - 😄 You can reach me using above social badges links.
 
 Here are programming languages or tools I frequently used:
@@ -145,15 +145,15 @@ And here are some interesting grphs:
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-summary-card-output/vue/2-most-commit-language.svg"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-summary-card-output/vue/3-stats.svg"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
 </div>
 
