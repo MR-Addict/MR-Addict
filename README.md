@@ -37,7 +37,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 - 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
 - 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
 - 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
-- 🗫 Ask me about anything related to programming, technology, or video games.
+- 👋 Ask me about anything related to programming, technology, or video games.
 - 😄 You can reach me using above social badges links.
 
 Here are programming languages or tools I frequently used:
