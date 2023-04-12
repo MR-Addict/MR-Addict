@@ -47,7 +47,7 @@ jobs:
           AUTO_PUSH: false
 
       - name: merge generated files
-        run: mkdir output && mv snake output && mv profile-3d-contrib output && mv profile-summary-card-output output
+        run: rm -r output/* && mv snake output && mv profile-3d-contrib output && mv profile-summary-card-output output
 
       - name: push builds to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
