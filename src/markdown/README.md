@@ -62,15 +62,7 @@ And here are some interesting grphs:
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/main/output/snake/snake.svg" alt="Snake animation" />
 </div>
 
-##
-
-You can also have a look on my latest posts:
-
-- [Add Progressbar to Your Next.js 13 App](https://mraddict.one/blog/add-progressbar-to-your-nextjs-13-app) (9 days ago)
-- [CSS New @property Rule](https://mraddict.one/blog/css-at-property-rule) (2 months ago)
-- [Improve Your Website Accessibility](https://mraddict.one/blog/improve-your-web-accessability) (2 months ago)
-- [Write Beautiful Emails With React](https://mraddict.one/blog/react-email) (2 months ago)
-- [Useful Vscode Shortcut](https://mraddict.one/blog/vscode-shortcuts) (2 months ago)
+@{posts}
 
 ##
 

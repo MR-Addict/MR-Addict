@@ -12,6 +12,19 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-node@v3
+        with:
+          node-version: 18
+      - uses: actions/cache@v3
+        with:
+          path: "**/node_modules"
+          key: ${{ runner.OS }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
+          restore-keys: ${{ runner.OS }}-npm-cache-
+
+      - run: npm install
+      - run: npm run build
+
       - name: generate snake
         uses: Platane/snk/svg-only@v2
         with:
@@ -33,13 +46,13 @@ jobs:
           UTC_OFFSET: 8
           AUTO_PUSH: false
 
-      - name: merge files
+      - name: merge generated files
         run: mkdir output && mv snake output && mv profile-3d-contrib output && mv profile-summary-card-output output
 
       - name: push builds to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: output
-          build_dir: output
+          target_branch: main
+          build_dir: .
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

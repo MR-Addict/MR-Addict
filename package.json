@@ -1,0 +1,35 @@
+{
+  "name": "mr-addict",
+  "version": "1.0.0",
+  "description": "My github profile",
+  "main": "index.js",
+  "_moduleAliases": {
+    "@": "dist"
+  },
+  "scripts": {
+    "build": "tsc && node dist/index.js",
+    "dev": "concurrently \"tsc --watch\" \"nodemon dist/index.js\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MR-Addict/MR-Addict.git"
+  },
+  "keywords": [
+    "github",
+    "readme",
+    "profile"
+  ],
+  "author": "MR-Addict",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MR-Addict/MR-Addict/issues"
+  },
+  "homepage": "https://github.com/MR-Addict/MR-Addict#readme",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "concurrently": "^8.0.1",
+    "module-alias": "^2.2.2",
+    "typescript": "^5.0.4",
+    "zod": "^3.21.4"
+  }
+}
