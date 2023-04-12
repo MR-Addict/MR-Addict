@@ -55,11 +55,11 @@ And here are some interesting grphs:
 <!-- grph -->
 <div align="left">
   <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/main/output/profile-summary-card-output/vue/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/main/output/profile-summary-card-output/vue/3-stats.svg" />
+    <img height="150" alt="stats graph" src="/output/profile-summary-card-output/vue/2-most-commit-language.svg" />
+    <img height="150" alt="languages graph" src="/output/profile-summary-card-output/vue/3-stats.svg" />
   </div>
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/main/output/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/main/output/snake/snake.svg" alt="Snake animation" />
+  <img src="/output/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
+  <img src="/output/snake/snake.svg" alt="Snake animation" />
 </div>
 
 @{posts}
