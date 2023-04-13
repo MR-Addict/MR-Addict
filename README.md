@@ -70,8 +70,6 @@ You can also have a look on my latest posts
 [![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://mraddict.one/blog)
 [![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://mraddict.one/blog)
 [![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://mraddict.one/blog)
-[![post5](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post5.svg)](https://mraddict.one/blog)
-[![post6](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post6.svg)](https://mraddict.one/blog)
 
 ##
 
