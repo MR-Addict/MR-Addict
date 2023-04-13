@@ -1,0 +1,28 @@
+- const width = "800"
+- const height = "150"
+- const viewBox = `0 0 ${width} ${height}`
+- const lightGray = "#d1cee3"
+- const darkGray = "#57606a"
+- const blue = "#2563eb"
+
+svg(fill="none" viewBox=viewBox width=width height=height xmlns="http://www.w3.org/2000/svg")
+  //- style tag
+  style.
+    p {
+      margin: 0;
+      overflow: hidden;
+      display: -webkit-box;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+      font-family: sans-serif;
+      color: #3c4249;
+    }
+
+  //- frame outline
+  rect(x="0" y="0" width=width height=height stroke=lightGray strokeWidth="2" rx="5" ry="5")
+
+  //- title info
+  g(transform="translate(20 35)")
+    text(x="0" y="0" fill="#3c4249" font-size="25" font-weight="600" font-family="sans-serif")=title
+    foreignObject(x="0" y="15" width="360" height="40")
+      p(xmlns="http://www.w3.org/1999/xhtml")=intro

@@ -1,11 +1,17 @@
 import "module-alias/register";
 
-import { fetchPosts } from "./lib/post";
-import { updateReadme } from "./lib/markdown";
+import fs from "fs";
+import path from "path";
+
+import { fetchPosts, renderPost } from "./lib/post";
 
 async function main() {
   const posts = await fetchPosts();
-  updateReadme(posts);
+
+  const build_dir = path.join(process.cwd(), "build/posts");
+  fs.mkdirSync(build_dir, { recursive: true });
+
+  await Promise.all(posts.map((post, index) => renderPost(path.join(build_dir, "post" + (index + 1) + ".svg"), post)));
 }
 
 main();

@@ -47,12 +47,12 @@ jobs:
           AUTO_PUSH: false
 
       - name: merge generated files
-        run: rm -r output/* && mv snake output && mv profile-3d-contrib output && mv profile-summary-card-output output
+        run: mv snake build && mv profile-3d-contrib build && mv profile-summary-card-output build
 
-      - name: push builds to output branch
+      - name: push svgs to build branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          target_branch: main
-          build_dir: .
+          target_branch: build
+          build_dir: build
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

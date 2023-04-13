@@ -27,8 +27,10 @@
   "homepage": "https://github.com/MR-Addict/MR-Addict#readme",
   "devDependencies": {
     "@types/node": "^18.15.11",
+    "@types/pug": "^2.0.6",
     "concurrently": "^8.0.1",
     "module-alias": "^2.2.2",
+    "pug": "^3.0.2",
     "typescript": "^5.0.4",
     "zod": "^3.21.4"
   }
