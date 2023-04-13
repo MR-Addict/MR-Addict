@@ -64,13 +64,13 @@ And here are some interesting grphs:
 
 ##
 
-You can also have a look on my latest posts:
+You can also have a look on my latest posts
 
-- [Add Progressbar to Your Next.js 13 App](https://mraddict.one/blog/add-progressbar-to-your-nextjs-13-app) (9 days ago)
-- [CSS New @property Rule](https://mraddict.one/blog/css-at-property-rule) (2 months ago)
-- [Improve Your Website Accessibility](https://mraddict.one/blog/improve-your-web-accessability) (2 months ago)
-- [Write Beautiful Emails With React](https://mraddict.one/blog/react-email) (2 months ago)
-- [Useful Vscode Shortcut](https://mraddict.one/blog/vscode-shortcuts) (2 months ago)
+[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://mraddict.one/blog)
+[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://mraddict.one/blog)
+[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://mraddict.one/blog)
+[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://mraddict.one/blog)
+[![post5](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post5.svg)](https://mraddict.one/blog)
 
 ##
 
