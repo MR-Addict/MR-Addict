@@ -21,7 +21,7 @@ I'm an undergradute student of Njtech University from Jiangsu China.
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
-- 🔭 I’m currently working on building my portfolio and contributing to open source projects.
+- 🔭 I’m currently working on building my personal website and contributing to open source projects.
 - 🌱 I’m constantly learning frontend techonolgies and keeping improving my skills.
 - 👯 I’m looking to collaborate on any project that aligns with my interests and expertise.
 - 💼 I'm also writing some intersting projects, you can have a look on my pinned repositories.
@@ -33,14 +33,11 @@ Here are programming languages or tools I frequently used:
 <div>
   <img height="30" width="42" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img height="30" width="42" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="42" alt="matlab logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
   <img height="30" width="42" alt="tailwindcss logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
   <img height="30" width="42" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="30" width="42" alt="svelte logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" />
   <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img height="30" width="42" alt="mongodb logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
-  <img height="30" width="42" alt="redis logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" />
-  <img height="30" width="42" alt="mysql logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
   <img height="30" width="42" alt="docker logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
   <img height="30" width="42" alt="nginx logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" />
   <img height="30" width="42" alt="processing logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg" />
@@ -64,7 +61,7 @@ And here are some interesting grphs:
 
 ##
 
-You can also have a look on my latest posts
+You can also have a look on my latest posts:
 
 [![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://mraddict.one/blog)
 [![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://mraddict.one/blog)
