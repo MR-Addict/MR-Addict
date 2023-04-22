@@ -1,5 +1,4 @@
 <!-- welcome message -->
-
 # Hi there! I'm Cael.
 
 <!-- badge -->
@@ -58,6 +57,38 @@ And here are some interesting grphs:
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/snake.svg" alt="Snake animation" />
 </div>
+
+##
+
+<!-- geo location -->
+Where I am - Nanjing
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": 1,
+      "properties": {
+        "ID": 0
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+              [121.5,35],
+              [121.5,30],
+              [116.5,30],
+              [116.5,35],
+              [121.5,35]
+          ]
+        ]
+      }
+    }
+  ]
+}
+```
 
 ##
 
