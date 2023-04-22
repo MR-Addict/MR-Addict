@@ -1,4 +1,5 @@
 <!-- welcome message -->
+
 # Hi there! I'm Cael.
 
 <!-- badge -->
@@ -9,7 +10,7 @@
   <a href="mailto:MR-Addict@qq.com" target="_blank">
     <img height="35" alt="gmail logo" src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=A084DC&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
-  <a href="https://mraddict.one" target="_blank">
+  <a href="https://mraddict.top" target="_blank">
     <img height="35" alt="microsoft-outlook logo" src="https://img.shields.io/static/v1?message=Website&logo=microsoft-outlook&label=&color=7F167F&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
 </div>
@@ -46,22 +47,9 @@ Here are programming languages or tools I frequently used:
 
 ##
 
-And here are some interesting grphs:
-
-<!-- grph -->
-<div align="left">
-  <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/3-stats.svg" />
-  </div>
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/snake.svg" alt="Snake animation" />
-</div>
-
-##
-
 <!-- geo location -->
-Where I am - Nanjing
+
+Where I currently live (Nanjing):
 
 ```geojson
 {
@@ -77,11 +65,26 @@ Where I am - Nanjing
         "type": "Polygon",
         "coordinates": [
           [
-              [121.5,35],
-              [121.5,30],
-              [116.5,30],
-              [116.5,35],
-              [121.5,35]
+            [
+              121.5,
+              35
+            ],
+            [
+              121.5,
+              30
+            ],
+            [
+              116.5,
+              30
+            ],
+            [
+              116.5,
+              35
+            ],
+            [
+              121.5,
+              35
+            ]
           ]
         ]
       }
@@ -92,12 +95,17 @@ Where I am - Nanjing
 
 ##
 
-You can also have a look on my latest posts:
+And here are some interesting grphs about my github activities:
 
-[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://mraddict.one/blog)
-[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://mraddict.one/blog)
-[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://mraddict.one/blog)
-[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://mraddict.one/blog)
+<!-- grph -->
+<div align="left">
+  <div>
+    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/2-most-commit-language.svg" />
+    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/3-stats.svg" />
+  </div>
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 ##
 
