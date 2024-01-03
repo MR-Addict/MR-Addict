@@ -22,6 +22,9 @@ jobs:
           key: ${{ runner.OS }}-npm-cache-${{ hashFiles('**/package-lock.json') }}
           restore-keys: ${{ runner.OS }}-npm-cache-
 
+      - run: npm install
+      - run: npm run build
+
       - name: generate snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -44,7 +47,7 @@ jobs:
           AUTO_PUSH: false
 
       - name: merge generated files
-        run: mkdir build && mv dist build/snake && mv profile-3d-contrib build && mv profile-summary-card-output build
+        run: mv dist build/snake && mv profile-3d-contrib build && mv profile-summary-card-output build
 
       - name: push svgs to build branch
         uses: crazy-max/ghaction-github-pages@v3.1.0

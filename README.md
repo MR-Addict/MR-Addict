@@ -1,6 +1,6 @@
 <!-- welcome message -->
 
-# Hi there! I'm Cael.
+# Hi there! My Name is Cael.
 
 <!-- badge -->
 <div>
@@ -47,65 +47,26 @@ Here are programming languages or tools I frequently used:
 
 ##
 
-<!-- geo location -->
-
-Where I currently live (Nanjing):
-
-```geojson
-{
-  "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "id": 1,
-      "properties": {
-        "ID": 0
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              121.5,
-              35
-            ],
-            [
-              121.5,
-              30
-            ],
-            [
-              116.5,
-              30
-            ],
-            [
-              116.5,
-              35
-            ],
-            [
-              121.5,
-              35
-            ]
-          ]
-        ]
-      }
-    }
-  ]
-}
-```
-
-##
-
 And here are some interesting grphs about my github activities:
 
 <!-- grph -->
 <div align="left">
   <div>
-    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/2-most-commit-language.svg" />
-    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/3-stats.svg" />
+    <img height="150" alt="stats graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/2-most-commit-language.svg" />
+    <img height="150" alt="languages graph" src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/3-stats.svg" />
   </div>
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/vue/0-profile-details.svg" alt="profile detail" />
+  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="profile detail" />
   <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/snake/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
+
+##
+
+You can also have a look on my latest posts:
+
+[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://playground.mraddict.top/api/blog/redirect?index=1)
+[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://playground.mraddict.top/api/blog/redirect?index=2)
+[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://playground.mraddict.top/api/blog/redirect?index=3)
+[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://playground.mraddict.top/api/blog/redirect?index=4)
 
 ##
 
