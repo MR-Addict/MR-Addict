@@ -28,6 +28,18 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 - 👋 Ask me about anything related to programming, technology, or video games.
 - 😄 You can reach me using above social badges links.
 
+# The story behind my username
+
+You might be wondering about my GitHub username, **MR-Addict**. Haha, here’s the story behind it.
+
+When I first got into university, the seniors in [STAS](https://github.com/NJTUSTAS) — a club I joined and contributed to in next four years, introduced us to GitHub and told us to create an account. Back then, I knew nothing about coding or open source, and I had to come up with an English username. So, I based mine on my high school class monitor, **晓雨** (Xiaoyu), who had a big influence on me. Her name can be translated into "morning rain" in english and I shortened it to MR. Thus, my username just means a fan to Xiaoyu. Similar to [@dingyang666](https://github.com/dingyang666), one of those seniors who taught us about GitHub — reflects his respect(666, one of chinese internet slangs) for 丁洋 (Ding Yang).
+
+Looking back, those years flew by — three years of high school, four years of university. Now, I guess I’m supposed to be a mature adult? Maybe I am, maybe I’m not. Good things will be better when you put it longer util you reveal it.
+
+But life is about moving forward. I’m still figuring things out, finding new ways of life. So, I wanna spend more time with the one I love and been loved. That’s what really matters.
+
+# Interesting diagrams
+
 Here are programming languages or tools I frequently used:
 
 <div>
