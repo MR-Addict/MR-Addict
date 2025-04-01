@@ -1,9 +1,9 @@
 <!-- welcome message -->
 
-# Hi there! My Name is Cael.
+# Hi there, my name is Cael.
 
 <!-- badge -->
-<div>
+<!-- <div>
   <a href="https://t.me/owencael" target="_blank">
     <img height="35" alt="telegram logo" src="https://img.shields.io/static/v1?message=Telegrm&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" />
   </a>
@@ -15,9 +15,9 @@
   </a>
 </div>
 
-<br/>
+<br/> -->
 
-I'm an undergradute student of Njtech University from Jiangsu China.
+I am a gradute student of Njtech University from Nanjing Jiangsu China.
 
 I have a strong passion for technology and enjoy exploring new tools. Here's a little bit more about me:
 
@@ -33,7 +33,7 @@ Here are programming languages or tools I frequently used:
 <div>
   <img height="30" width="42" alt="typescript logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img height="30" width="42" alt="python logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img height="30" width="42" alt="rust logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+  <!-- <img height="30" width="42" alt="rust logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" /> -->
   <img height="30" width="42" alt="go logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" />
   <img height="30" width="42" alt="nextjs logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
   <img height="30" width="42" alt="react logo" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -60,12 +60,18 @@ And here are some interesting grphs about my github activities:
 
 ##
 
+Disabled on 2025.4.1
+
 You can also have a look on my latest posts:
 
-[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://playground.mraddict.top/api/blog/redirect?index=1)
-[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://playground.mraddict.top/api/blog/redirect?index=2)
-[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://playground.mraddict.top/api/blog/redirect?index=3)
-[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://playground.mraddict.top/api/blog/redirect?index=4)
+[![post1](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post1.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=1)
+[![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=2)
+[![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=3)
+[![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=4)
+
+<!-- profile-3d-contrib -->
+
+<img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/profile-3d-contrib/profile-gitblock.svg" alt="profile-3d-contrib"/>
 
 ##
 
