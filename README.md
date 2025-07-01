@@ -28,6 +28,7 @@ I have a strong passion for technology and enjoy exploring new tools. Here's a l
 - 👋 Ask me about anything related to programming, technology, or video games.
 - 😄 You can reach me using above social badges links.
 
+<!--
 # The story behind my username
 
 You might be wondering about my GitHub username, **MR-Addict**. Haha, here’s the story behind it.
@@ -37,6 +38,8 @@ When I first got into university, the seniors in [STAS](https://github.com/NJTUS
 Looking back, those years flew by — three years of high school, four years of university. Now, I guess I’m supposed to be a mature adult? Maybe I am, maybe I’m not. Good things will be better when you put it longer util you reveal it.
 
 But life is about moving forward. I’m still figuring things out, finding new ways of life. So, I wanna spend more time with the one I love and been loved. That’s what really matters.
+
+-->
 
 # Interesting diagrams
 
@@ -72,7 +75,7 @@ And here are some interesting grphs about my github activities:
 
 ##
 
-Disabled on 2025.4.1
+<!-- Disabled on 2025.4.1
 
 You can also have a look on my latest posts:
 
@@ -80,6 +83,8 @@ You can also have a look on my latest posts:
 [![post2](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post2.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=2)
 [![post3](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post3.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=3)
 [![post4](https://raw.githubusercontent.com/MR-Addict/MR-Addict/build/posts/post4.svg)](https://playground.mraddict.vercel.app/api/blog/redirect?index=4)
+
+-->
 
 <!-- profile-3d-contrib -->
 
